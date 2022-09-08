@@ -1,2 +1,5 @@
 this is new file
-https://www.cnblogs.com/edisonchou/p/5990875.html
+学习github网址： https://www.cnblogs.com/edisonchou/p/5990875.html
+
+学习内存分析网址： https://www.cnblogs.com/InCerry/p/maoni-mem-doc.html#%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%AF%A5%E6%8B%85%E5%BF%83
+学习数据结构网址：https://www.cnblogs.com/edisonchou/p/4593972.html
