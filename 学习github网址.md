@@ -28,4 +28,12 @@ this is new file
 当两个教师都想使用同一个教室来为学生补课，如何协调呢？进到教室后将门锁上，另外一个教室就无法进来使用教室了。即教室是用锁来保证互斥的，那么在操作系统中，这种可以保证互斥的同步机制就被称为锁。
 
 
-nihao
+    下面是使用C#代码作为锁来控制
+    private object locker = new object();
+    public void Work()
+    {
+          lock (locker)
+          {
+              // 做一些需要线程同步的工作
+          }
+     }
