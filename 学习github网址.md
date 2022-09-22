@@ -50,4 +50,7 @@ this is new file
 接着学习这个文档：
 https://www.cnblogs.com/lxblog/archive/2012/12/26/2833974.html
 
+lock和Monitor.Enter(obj);Monitor.Exit(obj);是一样的。背后的代码就是这个.
+
+Monitor.Enter是锁住该对象其他线程不可以访问，当Monitor.Exit的时候就会释放该对象.
   
